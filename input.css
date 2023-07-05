@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+
+.btn {
+  background-color: #fff;
+  padding: 5px 15px;
+  outline: none;
+  border-radius: 50px;
+  text-align: center;
+  margin: 10px 0px 10px 0px;
+}
+
+.btn:hover {
+  border: 1px solid #fff;
+  color: #fff;
+}
+@tailwind utilities;
